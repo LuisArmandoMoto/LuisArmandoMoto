@@ -1,16 +1,21 @@
-## Hi there 👋
+# Luis Armando Moto
 
-<!--
-**LuisArmandoMoto/LuisArmandoMoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Mathematics student at UNAM with a focus on Business Intelligence, quantitative modeling, and data-driven decision systems.
 
-Here are some ideas to get you started:
+## Technical Stack
+- SQL (data querying, aggregation, joins)
+- Python (Pandas for data cleaning and transformation)
+- Excel (advanced formulas, data analysis)
+- Git & version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Interests
+- Business Intelligence & analytics
+- Structured decision modeling
+- Performance optimization systems
+- Data pipeline fundamentals
+
+## Featured Work
+Selected projects focused on structured analysis, rule-based systems, and applied data modeling.
+
+## Location
+Mexico City
