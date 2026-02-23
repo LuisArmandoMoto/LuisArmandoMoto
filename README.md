@@ -1,6 +1,6 @@
 # Luis Armando Moto
 
-Applied Mathematics student at UNAM with a focus on Business Intelligence, quantitative modeling, and data-driven decision systems.
+Applied Mathematics student at UNAM focused on Business Intelligence, quantitative modeling, and data-driven decision systems. Background in Linguistics applied to quantitative text analysis.
 
 ## Technical Stack
 - SQL (data querying, aggregation, joins)
@@ -11,11 +11,8 @@ Applied Mathematics student at UNAM with a focus on Business Intelligence, quant
 ## Professional Interests
 - Business Intelligence & analytics
 - Structured decision modeling
-- Performance optimization systems
+- Quantitative text analysis
 - Data pipeline fundamentals
-
-## Featured Work
-Selected projects focused on structured analysis, rule-based systems, and applied data modeling.
 
 ## Location
 Mexico City
